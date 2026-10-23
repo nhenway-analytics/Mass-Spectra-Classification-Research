@@ -83,7 +83,6 @@ The study compares **statistical similarity methods**, not a trained deep-learni
 ├── requirements.txt
 ├── DATA_ACCESS.md
 ├── CONTRIBUTORS.md
-├── .gitignore
 ├── results/
 │   ├── summary_by_seed.csv
 │   └── summary_stats.csv
