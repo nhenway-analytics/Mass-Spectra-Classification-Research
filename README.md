@@ -120,7 +120,7 @@ Running `main.py` recreates an untracked local `results/` folder, including the 
 
 ## Research credit and authorship
 
-**Joint academic project:** Nhen Way and Fatema Naoshin (2026), *Mass Spectra Classification: Enhancing Accuracy and Objectivity in Forensic Drug Analysis*, Trent University course project. **Nhen Way reports that Fatema Naoshin agrees to sharing the joint project on GitHub.** Specific individual responsibilities have not been established by the provided files, so no claim of sole authorship is made here.
+**Joint academic project:** This collaborative MSc research project was completed by Nhen Way and Fatema Naoshin at Trent University in April 2026. The project is shared with the agreement of both researchers, with joint authorship acknowledged.
 
 **Prior scientific method:** The min–max approach is based on Moorthy, A. S., and Sisco, E. (2021), *The min-max test: An objective method for discriminating between mass spectra* (full reference in the course paper). The quantile-based implementation is the student project's evaluated variant and should not be confused with the original authors' transformed score notation.
 
